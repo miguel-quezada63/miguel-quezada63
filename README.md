@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am Miguel Quezada, a **Full Stack Website Developer** whomst graduated from **Florida State University** with a Bachelors in **Computer Science**.
+I am Miguel Quezada, a **Full Stack Website Developer** with a Bachelors in **Computer Science** from **Florida State University**.
 
-Over my professional career, I have had the honor to work with a plethora of technologies, tech stacks, and programming languages. These include, but are not limited to: 
+Over my professional career, I have had the chance to work with a plethora of technologies, tech stacks, and programming languages. These include, but are not limited to: 
 
 - JavaScript (Modern front-end frameworks, more specifically: Angular, Vue, and Svelte. TypeScript).
 - HTML5 (templating engines, including Pug and Handlebars)
