@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## About Me
-
 I am Miguel Quezada, a **Full Stack Website Developer** with a Bachelors in **Computer Science** from **Florida State University**.
 
 My passion lies in tackling challenging problems and enhancing user experiences. My expertise spans front-end and back-end development, enabling me to craft seamless integrations between design and functionality, ensuring users enjoy intuitive and engaging interactions with applications.
