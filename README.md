@@ -9,7 +9,7 @@ I am dedicated to continuous learning and staying informed of the latest industr
 The projects I've been involved in illustrate my ability to navigate various challenges and my versatility in tackling issues across different domains. From developing responsive web applications that prioritize user experience to engineering robust backend systems, each endeavor showcases my commitment to excellence and innovation.
 
 As I look forward to future projects, I am excited about the prospect of deepening my expertise and contributing to groundbreaking work. 
-I am keen to explore fields such as AI and machine learning, cloud computing, and cybersecurity, leveraging my foundational skills to navigate these areas of interest.
+I am keen to explore fields such as AI and machine learning, blockchain, cloud computing, and cybersecurity, leveraging my foundational skills to navigate these areas of interest.
 
 Thank you for visiting my profile! Feel free to browse through my projects and don't hesitate to reach out if you're interested in discussing potential collaborations or have any questions. Let's connect and make something amazing together.
 
